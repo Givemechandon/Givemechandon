@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Bruno César! 😁
+## Bem-vindo(a) ao perfil do Bruno César! 😎
 
  <div>
    <a href="https://github.com/Givemechandon">
