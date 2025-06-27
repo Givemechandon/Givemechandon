@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Bruno Correia, sou desenvolvedor front-end e iniciando a carreira na área Web, tenho 23 anos e sou de Jundiaí-SP. Comecei a estudar programação a partir do DevemDobro e logo depois parti para novas aventuras. Atualmente estudo apenas front-end mas com uma linha traçada para um dia me tornar um desenvolvedor full-stack. Tenho superior de Análise e Desenvolvimento de sistemas interrompido na UNIP, sou aluno FullStackClub e Bootcamper da DIO.me
+Me chamo Bruno Correia, sou desenvolvedor front-end e iniciando a carreira na área Web, tenho 23 anos e sou de Jundiaí-SP. Comecei a estudar programação a partir do DevemDobro e logo depois parti para novas aventuras. Atualmente estudo apenas front-end mas com uma linha traçada para um dia me tornar um desenvolvedor full-stack. Tenho superior de Análise e Desenvolvimento de sistemas na UNIP, sou aluno FullStackClub e Bootcamper da DIO.me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bruno-c%C3%A9sar-correia-a0bab5186/" target="_blank">
