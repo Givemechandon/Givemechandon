@@ -2,7 +2,15 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Bruno Correia, sou desenvolvedor front-end e iniciando a carreira na área Web, tenho 23 anos e sou de Jundiaí-SP. Comecei a estudar programação a partir do DevemDobro e logo depois parti para novas aventuras. Atualmente estudo apenas front-end mas com uma linha traçada para um dia me tornar um desenvolvedor full-stack. Tenho superior de Análise e Desenvolvimento de sistemas na UNIP, sou aluno FullStackClub e Bootcamper da DIO.me
+Me chamo Bruno Correia,
+
+Desenvolvedor Front-End especializado em interfaces web modernas, responsivas e escaláveis. Trabalho com JavaScript, TypeScript, React, Next.js, Tailwind CSS, SCSS, PHP e WordPress, com experiência em temas customizados, ACF, WooCommerce e integrações com APIs.
+
+Tenho prática em ambientes profissionais com Git/GitHub, branches de desenvolvimento, homologação, produção, resolução de conflitos e manutenção de projetos em larga escala. Também atuo com otimização de componentes, estruturação de layouts, tracking via dataLayer/GTM e melhoria contínua de performance e experiência do usuário.
+
+Meu foco é construir soluções front-end bem estruturadas, reutilizáveis e alinhadas às necessidades do produto e do negócio.
+Também estudo atualmente banco de dados e back-end para me tornar um full-stack.
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bruno-c%C3%A9sar-correia-a0bab5186/" target="_blank">
