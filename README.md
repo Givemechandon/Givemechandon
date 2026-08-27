@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bruno Correia
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`**
 
 Me chamo Bruno Correia,
 
