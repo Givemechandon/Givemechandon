@@ -4,12 +4,11 @@
 
 Me chamo Bruno Correia,
 
-Desenvolvedor Front-End especializado em interfaces web modernas, responsivas e escaláveis. Trabalho com JavaScript, TypeScript, React, Next.js, Tailwind CSS, SCSS, PHP e WordPress, com experiência em temas customizados, ACF, WooCommerce e integrações com APIs.
+Desenvolvedor Full-Stack especializado em interfaces web modernas, responsivas e escaláveis. Trabalho com JavaScript, TypeScript, React, Node.js, Next.js, Tailwind CSS, SCSS, PHP e WordPress, com experiência em temas customizados, ACF, WooCommerce e integrações com APIs.
 
 Tenho prática em ambientes profissionais com Git/GitHub, branches de desenvolvimento, homologação, produção, resolução de conflitos e manutenção de projetos em larga escala. Também atuo com otimização de componentes, estruturação de layouts, tracking via dataLayer/GTM e melhoria contínua de performance e experiência do usuário.
 
-Meu foco é construir soluções front-end bem estruturadas, reutilizáveis e alinhadas às necessidades do produto e do negócio.
-Também estudo atualmente banco de dados e back-end para me tornar um full-stack.
+Meu foco é construir soluções bem estruturadas, reutilizáveis e alinhadas às necessidades do produto e do negócio.
 
 
 <p align="left">
@@ -54,6 +53,14 @@ Também estudo atualmente banco de dados e back-end para me tornar um full-stack
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node"
+    title="Node" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg" 
 />
 <img 
     align="left" 
